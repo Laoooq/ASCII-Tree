@@ -13,7 +13,7 @@ struct green_state {
     }
 
     void increase_darkness(){ ++dark; }
-    void reset_darkness(){ dark = 0; }
+    void reset_darkness(){ dark = 0;}
 
 private:
     constexpr static color_t kGreenColors[] = {22_c, 22_c, 28_c, 34_c};
