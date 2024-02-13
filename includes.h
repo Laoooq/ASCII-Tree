@@ -1,0 +1,12 @@
+#ifndef PRACTICE_INCLUDES_H
+#define PRACTICE_INCLUDES_H
+#include <cstdlib>
+#include <chrono>
+#include <thread>
+#include <iostream>
+#include <random>
+#include <iterator>
+#include <fstream>
+#include <algorithm>
+#include <atomic>
+#endif //PRACTICE_INCLUDES_H
